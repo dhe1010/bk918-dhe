@@ -1,0 +1,14 @@
+{
+  "name": "bk-dhe-919",
+  "version": "1.0.0",
+  "description": "test1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "dhe-919"
+  ],
+  "author": "dhe",
+  "license": "MIT"
+}
